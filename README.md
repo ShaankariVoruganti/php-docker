@@ -1,12 +1,12 @@
 # php-apache-docker
 My first docker "Hello World" application with ubuntu as base image, php and apache2 installed
 
-#Environment
-Ubuntu
-Apache2
+# Environment
+Ubuntu,
+Apache2,
 PHP7.2
 
-#INSTALLATION
+# INSTALLATION
 Clone this repository on your local computer and Run the docker-compose up -d.
 
  git clone https://github.com/ringnyu/php-apache-docker.git
